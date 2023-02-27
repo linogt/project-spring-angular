@@ -4,7 +4,7 @@
 
 # Sobre o Projeto
 
-O projeto consiste na criação de API e interface para um banco de dados de cadastro de clientes utilizando os frameworks Spring e Angular.
+O projeto consiste na criação de uma API e uma interface para um banco de dados de cadastro de clientes utilizando os frameworks Spring e Angular.
 
 # Visualização do Resultado
 
